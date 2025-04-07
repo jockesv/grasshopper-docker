@@ -1,0 +1,1 @@
+docker run -it -p 8989:8989 -p 8990:8990 jockesv/graphhopper-gtfs-sweden:1.0
